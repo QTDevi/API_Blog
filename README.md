@@ -18,7 +18,7 @@ This project is a RESTful API for managing blog posts and comments. It is built 
 - **Python 3.8+**
 - **Django 4.x**
 - **Django REST Framework**
-- SQLite (default, replaceable with other databases)
+- **SQLite (default, replaceable with other databases)**
 
 ---
 
